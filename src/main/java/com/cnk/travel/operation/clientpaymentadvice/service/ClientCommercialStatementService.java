@@ -9,4 +9,6 @@ public interface ClientCommercialStatementService {
     List<ClientCommercialStatement> getAll();
     ClientCommercialStatement getOne(String id);
 
+// some thing
+
 }
